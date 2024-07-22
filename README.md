@@ -1,2 +1,2 @@
 React msw  
-https://zenn.dev/higuchimakoto/articles/d9865193910046
+https://mswjs.io/docs/getting-started  
